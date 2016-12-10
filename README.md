@@ -1,2 +1,2 @@
 # MyUML
-MyUML application
+MyUML Android application
